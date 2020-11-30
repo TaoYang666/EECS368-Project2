@@ -1,0 +1,15 @@
+.title
+{
+    text-align: center;
+}
+
+#chessboard
+{
+    display: block;
+    margin: 20px auto;
+    width: 570px;
+    height: 570px;
+    background-image: url(./background.jpg);
+    background-size: cover;
+    
+}
